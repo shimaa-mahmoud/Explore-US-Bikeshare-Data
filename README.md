@@ -19,7 +19,7 @@ The Chicago and New York City files also have the following two columns:
   * Gender
   * Birth Year
 
-![data sample](Capture.png)
+![data sample](https://github.com/shimaa-mahmoud/Explore-US-Bikeshare-Data/blob/main/Capture.PNG)
 
 ## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
